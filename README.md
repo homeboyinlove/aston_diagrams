@@ -1,1 +1,4 @@
-#diagrams for Aston internship
+# diagrams for Aston internship
+
+
+Хотел сначала сделать интеграцию с draw.io, потом понял, что там нельзя закодить диаграмму, пошел на питоне это делать ) 
